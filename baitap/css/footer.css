@@ -1,0 +1,97 @@
+footer{
+ 
+    background-color: #222326;
+    height:405px;
+    margin-top: 50px;
+   
+}
+.footer-main{
+    display: flex;
+}
+footer .footer-main .info {
+    width: 25%;
+    color:white;
+    text-align: left;
+    font-family:'Arial';
+    margin-top: 5px;
+    font-size: 12px;
+    
+}
+footer .footer-main .info .subb-info{
+    text-align: justify;
+    margin-bottom: 15px;
+}
+footer .footer-main .info h4{
+    font-family: 'Open Sans ExtraBold';
+    text-shadow: 1px 1px 5px #444444;
+    font-size: 25px;
+}
+footer .footer-main .info .sub-info{
+    line-height: 25px;
+    font-family:'Arial';
+    font-size: 13px;
+}
+footer .footer-main .info .icon ul{
+    display: flex;
+    list-style: none;
+    justify-content: left;
+}
+footer .footer-main .info .icon ul li i{
+    margin-right: 15px;
+
+    justify-content: left;
+}
+footer .footer-main .site-map{
+    width: 25%;
+    color:white;
+    text-align: left;
+    font-family:'Arial';
+    margin-top: 5px;
+    font-size: 16px;
+    margin-left: 80px;
+}
+footer .footer-main .site-map h5{
+    font-family: 'Open Sans ExtraBold';
+    padding-top: 10px;
+    font-size: 23px;
+}
+footer .footer-main .site-map ul li{
+    padding:  10px;
+}
+footer .footer-main .product{
+    width: 25%;
+    color:white;
+    text-align: left;
+    font-family:'Open Sans Semibold';
+    margin-top: 5px;
+    font-size: 16px;
+    margin-left: 80px;
+}
+footer .footer-main .product h5{
+    font-family: 'Open Sans ExtraBold';
+    padding-top: 10px;
+    font-size: 23px;  
+}
+footer .footer-main .product ul li{
+   padding: 10px;
+}
+
+footer .footer-main .fanpage{
+   
+    width: 25%;
+    color:white;
+    text-align: left;
+    font-family: 'Open Sans Light';
+    margin-top: 5px;
+    font-size: 16px;
+    margin-left: 100px;
+}
+footer .footer-main .fanpage h5{
+    font-family: 'Open Sans ExtraBold';
+    padding-top: 10px;
+    font-size: 23px;  
+}
+footer .footer-main .fanpage img{ 
+    max-width: 100%;
+    padding-top: 25px;
+}

@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+.container{
+    width: 1170px;
+    margin: auto;
+}
+@font-face{
+    font-family: 'Open Sans Semibold';
+    src:url('../fonts/OpenSans-Semibold.ttf');
+}
+@font-face{
+    font-family: 'Open Sans ExtraBold';
+    src:url('../fonts/OpenSans-ExtraBold.ttf');
+}
+@font-face{
+    font-family: 'Open Sans Light';
+    src:url('../fonts/OpenSans-Light.ttf');
+}
+@font-face{
+    font-family: 'Open Sans Bold';
+    src:url('../fonts/OpenSans-Bold.tff')
+}
+@font-face{
+    
+    font-family: 'Open Sans Regular';
+    src:url('../fonts/OpenSans-Regular.ttf')
+}
+
+/* header */
+/* nav */
+/* section-main*/
+
+/* footer */
+
+#copy_right{
+    background-color: #1a1c1f;
+    height: 60px;
+    color:white;
+    padding-top: 15px;
+    font-family: 'Open Sans Light';
+}
